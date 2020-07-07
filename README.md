@@ -6,6 +6,6 @@ We used Django to create a website that allowed users to unlock game-specific Cr
 We used Mambu API to simulate a bank backend system and track transactions.
 
 ## Developers:
-..* Zeph Ng [@zeph1997](https://github.com/zeph1997)
-..* Joash Chin [@CornCobs](https://github.com/CornCobs)
-..* Ng Ying Ting [@Yingtingng](https://github.com/Yingtingng)
+* Zeph Ng [@zeph1997](https://github.com/zeph1997)
+* Joash Chin [@CornCobs](https://github.com/CornCobs)
+* Ng Ying Ting [@Yingtingng](https://github.com/Yingtingng)
